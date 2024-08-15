@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.SignIn_form {
+    width: 450px;
+    height: 476px;
+    margin: auto;
+    margin-top: 60px;
+
+}
+
+.SignIn-text {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 42px;
+    margin-bottom: 36px;
+}
+
+.Twitter_Icon {
+    margin-bottom: 36px;
+    display: inline-block;
+}
+
+.main_input {
+    width: 450px;
+    height: 70px;
+    padding-left: 20px;
+    border: 1px solid slategray;
+    font-size: 18px;
+    color: slategray;
+    border-radius: 6px;
+    outline: 2px solid transparent;
+    margin-bottom: 25px;
+
+}
+
+.form_button {
+    width: 450px;
+    height: 60px;
+    padding: 0px 18px 0px 18px;
+    border: none;
+    background: #1DA1F2;
+    color: white;
+    border-radius: 76px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.navigation{
+    color: #1DA1F2;
+    font-size: 18px;
+}
+.navigation_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 40px;
+}
